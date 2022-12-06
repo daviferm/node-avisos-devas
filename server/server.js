@@ -15,6 +15,8 @@ app.use(function(req, res, next) {
     next();
 });
 
+
+
 // app.use(express.static(publicPath));
 const loginRoutes = require('./rutas/login');
 
