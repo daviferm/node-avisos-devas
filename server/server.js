@@ -2,8 +2,8 @@ const express = require('express');
 const path = require('path');
 const app = express();
 
-const port = process.env.PORT || 3050;
-// const port = 3049;
+// const port = process.env.PORT || 3050;
+const port = 3049;
 
 
 // CORS PARA CONTROLAR LAS PETICIONES QUE RECIBE NUESTRO BACKEND
