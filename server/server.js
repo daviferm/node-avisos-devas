@@ -23,7 +23,7 @@ app.use(express.static(publicPath));
 
 const loginRoutes = require('./rutas/login');
 
-app.use('/login', loginRoutes);
+app.use('/api', loginRoutes);
 
 app.listen(port, (err) => {
 

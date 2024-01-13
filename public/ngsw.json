@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1705144401884,
+  "timestamp": 1705148093699,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -41,7 +41,7 @@
         "/5962.f3838c032b747ee5.js",
         "/6304.74211ffeebb3c2ed.js",
         "/6416.d2723744cffdb9ec.js",
-        "/6538.5121a62497658749.js",
+        "/6538.c636c7579d5055d0.js",
         "/6642.25cb5969f435eec9.js",
         "/6673.b2146354d02e626a.js",
         "/6754.bc88eec0a329b687.js",
@@ -74,7 +74,7 @@
         "/polyfills-core-js.93f56369317b7a8e.js",
         "/polyfills-dom.516ff539260f3e0d.js",
         "/polyfills.53dd1ba240d556a9.js",
-        "/runtime.eed813aec116b405.js",
+        "/runtime.2bf056b476e74306.js",
         "/styles.aa719492219d593e.css"
       ],
       "patterns": []
@@ -261,7 +261,7 @@
     "/5962.f3838c032b747ee5.js": "d1a66c9d88c38bd3669d183dc7f5e13ce32f2dd4",
     "/6304.74211ffeebb3c2ed.js": "71eb6960e4705ece7817a67bed274a6a4693f5d5",
     "/6416.d2723744cffdb9ec.js": "e4d8dc955125a9bdee54a43f8f1f1ccab3e58d22",
-    "/6538.5121a62497658749.js": "2582d47661fd1db2653ac8e4c5f17a14d2704a39",
+    "/6538.c636c7579d5055d0.js": "7d4904de23e1cc489897df28ed96f04df82604c1",
     "/6642.25cb5969f435eec9.js": "89f060d4e82e067d01a8ea19b414e9e89cfa2072",
     "/6673.b2146354d02e626a.js": "73a15447f34a4111dd76bba1f0a703b287692d25",
     "/6754.bc88eec0a329b687.js": "d1a765f326a5b207572982adeac703df56631002",
@@ -426,13 +426,13 @@
     "/assets/img/wispark.png": "b7efb90d4967a854229a31bcb7d7f7bf0682daca",
     "/common.a09de741f595c6b9.js": "87c3c17c5cbf84c0a39e2886345755567a103fdc",
     "/fondoapp.13214052e048af2d.png": "27fa0db8a7cd26ee3621925fd365bcba4db800b1",
-    "/index.html": "6ab45637c19b6f042819ad50c0c04ca72622fff7",
+    "/index.html": "b7a7ad5899549d943f01c4f5355df4c4c0cc410f",
     "/main.b2beb8d49362d185.js": "aafdfb47b552e2b5d976228eddca624f0e98fb55",
     "/manifest.webmanifest": "9a088b7c4339228d1082e666ce105dc889bc180c",
     "/polyfills-core-js.93f56369317b7a8e.js": "c8e9e4ae48fec22ae530c491f407d01f349509a9",
     "/polyfills-dom.516ff539260f3e0d.js": "cea88d53dd7d9ae658909b54c7bf701b2c796086",
     "/polyfills.53dd1ba240d556a9.js": "962be12ce16b4d6de741a54f40843b51ef3d06f9",
-    "/runtime.eed813aec116b405.js": "adb72c04956d0589fb57e79d21ab9fe3c9b62e4d",
+    "/runtime.2bf056b476e74306.js": "5f7b6a665b72dfdd978e913f7be5990e9ca13eec",
     "/styles.aa719492219d593e.css": "9541f724eacd468019b26352d638c93359febece"
   },
   "navigationUrls": [
