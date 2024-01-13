@@ -15,12 +15,13 @@ app.use(function(req, res, next) {
     next();
 });
 
-
 // Ruta de la carpeta pública
-const publicPath = path.resolve(__dirname, '../public');
+// const publicPath = path.resolve(__dirname, '../public');
 
-app.use(express.static(publicPath));
+// app.use(express.static(publicPath));
 
+
+// app.use(express.static(publicPath));
 const loginRoutes = require('./rutas/login');
 
 app.use('/api', loginRoutes);
