@@ -2,8 +2,8 @@ const express = require('express');
 const path = require('path');
 const app = express();
 
-// const port = process.env.PORT || 3050;
-const port = 3049;
+const port = process.env.PORT || 3050;
+// const port = 3049;
 
 
 // CORS PARA CONTROLAR LAS PETICIONES QUE RECIBE NUESTRO BACKEND
@@ -16,12 +16,12 @@ app.use(function(req, res, next) {
 });
 
 // Ruta de la carpeta pública
-const publicPath = path.resolve(__dirname, '../public');
+// const publicPath = path.resolve(__dirname, '../public');
 const loginRoutes = require('./rutas/login');
 
 app.use(express.static(publicPath));
 
-app.use('/api', loginRoutes);
+app.use('/login', loginRoutes);
 
 app.listen(port, (err) => {
 
