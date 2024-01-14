@@ -19,7 +19,7 @@ app.use(function(req, res, next) {
 // const publicPath = path.resolve(__dirname, '../public');
 const loginRoutes = require('./rutas/login');
 
-app.use(express.static(publicPath));
+// app.use(express.static(publicPath));
 
 app.use('/login', loginRoutes);
 
